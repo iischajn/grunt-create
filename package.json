@@ -1,8 +1,8 @@
 {
   "name": "grunt-create",
   "description": "create dir and file",
-  "version": "0.1.0",
-  "homepage": "https://github.com/chajn/grunt-create",
+  "version": "0.1.2",
+  "homepage": "https://github.com/iischajn/grunt-create",
   "author": {
     "name": "chajn",
     "email": "chajn@qq.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chajn/grunt-create.git"
+    "url": "git://github.com/iischajn/grunt-create.git"
   },
   "bugs": {
-    "url": "https://github.com/chajn/grunt-create/issues"
+    "url": "https://github.com/iischajn/grunt-create/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/chajn/grunt-create/blob/master/LICENSE-MIT"
+      "url": "https://github.com/iischajn/grunt-create/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {

@@ -35,7 +35,7 @@ grunt.initConfig({
 ```
 
 
-I'm lazy, so don't look after ╮(╯_╰)╭
+--I'm lazy, so don't look after ╮(╯_╰)╭--
 
 ### Overview
 In your project's Gruntfile, add a section named `create` to the data object passed into `grunt.initConfig()`.
